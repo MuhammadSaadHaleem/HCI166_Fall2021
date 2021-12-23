@@ -89,8 +89,8 @@ Add some description of the idea here.
 Taking accelerated courses might be your best option because they typically have small class sizes and are structured in a way to allow students the flexibility to learn in a way that fits their “non-traditional” (but common) lifestyle. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|Accelerated classes is that students get out of school and into the workforce as quickly as possible|blah blah blah blah blah blah blah blah...|
+|Accelerated programs often utilize shorter periods for classes, with courses running in a variety of formats|blah blah blah blah blah blah blah blah blah blah blah blah...|
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...
 
 ---
