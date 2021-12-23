@@ -97,13 +97,13 @@ Taking accelerated courses might be your best option because they typically have
 |Social and Emotional Development|It Discourages Listening to Elders|
 
 ---
-### IDEA 10: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 10: On demand video lectures with auto grading Woorkshop based(original by [Sameed Ahmed])
+
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Can reduced significant time due to auto granding|There is chance error in auto grading|
+|Due to on demand lectures more flexiblity is provided to student|Student may need to ask question during lectures|
+|Learning from wide range of teacher can improve student experience|Student find loophole of autoplaying lectures|
 
 
 ## Ideas by Ubaid Ullah
