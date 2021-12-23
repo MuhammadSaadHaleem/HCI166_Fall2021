@@ -93,7 +93,7 @@ Taking accelerated courses might be your best option because they typically have
 |PROS|CONS|
 |-|-|
 |Accelerated classes is that students get out of school and into the workforce as quickly as possible|Accelerated programs require students to be highly focused on the curriculum.|
-|Accelerated programs often utilize shorter periods for classes, with courses running in a variety of formats|Lightning fast learning isn’t always feasible for busy working adults holding a full-time career and family obligations.|
+|Accelerated programs often utilize shorter periods for classes, with courses running in a variety of formats|Lightning fast learning isn’t always feasible.|
 |Social and Emotional Development|Have a heavy workload in a condensed time frame|
 
 ---
