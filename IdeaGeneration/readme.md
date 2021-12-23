@@ -11,22 +11,23 @@
 
 ## Final 10 Ideas Selected
 
-### IDEA 1: Gamification of topis with short intro videos (original by [Ubaid Ullah])
-Just providing recorded video lectures will not be efficient so the topics converted into games.With short explanation videos.
+### IDEA 1: Gamification of topics with short intro videos (original by [Ubaid Ullah])
+Just providing recorded video lectures will not be efficient so the topics converted into games with levels.With short explanation videos.
+with onsite tests
+|PROS|CONS|
+|-|-|
+|students can find it intresting and intrective|there is chance of addiction to devices|
+|reach of the games can be universal and avialble to larger audience|availblity of device and internet is must|
+|performance of ecach student can be monitered |students can be distracted by other apps and websites on device|
+
+---
+### IDEA 2: Blah blah (original by [mention the member's name])
+Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
 |blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
-
----
-### IDEA 2: Anotation on work/ interactive slides animation (original by [M. Saad Haleem])
-The annotation work requires students to select a passage from a course reading and electronically mark up the text, adding interpretive commentary, links to relevant online resources, images, sounds, and explanatory notes 
-|PROS|CONS|
-|-|-|
-|Annotating helps build a better understanding of texts and stories.|In some cases, the annotations may be one person’s opinion|
-|They promote a deeper understanding of passages and encourage students to read with a purpose.|Language Barries for understandings|
-|It double-whammies as a way to quickly find information later on.|More critical thinking on any subject|
 
 ---
 ### IDEA 3: Blah blah (original by [mention the member's name])
