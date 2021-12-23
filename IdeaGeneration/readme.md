@@ -6,8 +6,8 @@
 |10182|Saad Haleem|
 |10121|Sameed Ahmed|
 
-## Core Problem: Double Daimon Framework
-\\Remove this text\\ In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
+## Core Problem: Double Daimond Framework
+The underlying problem with underpriviledged schools is lack of good human resources,infrastrucure and financial constraints in order to cope with these and make working model for hybird classroom the instituition must be independent of conventional building class rooon and became mobile classroom which can be conducted anywhere open space to community buildings etc.
 
 ## Final 10 Ideas Selected
 
@@ -122,4 +122,4 @@ Taking accelerated courses might be your best option because they typically have
 ## Group Brainstorm Session 
 ![WhatsApp Image 2021-12-23 at 2 54 41 PM](https://user-images.githubusercontent.com/38988469/147224069-971e2edf-f0ca-4cd7-bd91-9bba6eee10c6.jpeg)
 
-//In the group brain storming session shortlist the 60 ideas to 10. Discuss and keep noting why some ideas were scrapped, while some retained. Use a full sheet papers or chartpaper, printing paper etc. , you may use markers, pointers etc. If you can find a free classroom on campus use the whiteboard and take picture of that. use sticky notes etc.    
+
