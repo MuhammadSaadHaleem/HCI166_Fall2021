@@ -4,7 +4,7 @@
 |:-----:|---------------------|
 |64290|Ubaid Ullah|
 |10182|Saad Haleem|
-|10121|Sameed Ahmed kHAN|
+|10121|Sameed Ahmed Khan|
 
 ## Core Problem: Double Daimond Framework
 The underlying problem with underpriviledged schools is lack of good human resources,infrastrucure and financial constraints in order to cope with these and make working model for hybird classroom the instituition must be independent of conventional buildings and class room and became mobile classroom which can be conducted anywhere open space to community buildings etc.
