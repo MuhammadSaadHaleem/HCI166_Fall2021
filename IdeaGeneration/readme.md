@@ -30,13 +30,14 @@ The annotation work requires students to select a passage from a course reading 
 |It double-whammies as a way to quickly find information later on.|More critical thinking on any subject|
 
 ---
-### IDEA 3: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 3: Cloud Based Platform (original by [Ubaid Ullah])
+All lectures for primary to secondary education provided by cloud based platform with quizzes and assesment, no need to install any thing or download.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|School dont need to invest much other than some routers and basic internet |Third party dependencies are invovled|
+|Teachers and students have vast knowledge base without worrying about logistics of it|incase of any change to syllabus,schools have to wait till it updated on cloud base|
+|Reduce teaching time and students can revisit topics ant time|schools have to bear subscription fees as long as they use the system	|
+
 
 ---
 ### IDEA 4: Boardcasting TV & Radio. (original by [Sameed Ahmed])
@@ -48,22 +49,24 @@ Educational radio and television can support the millions of children who lack a
 |Students can easily accesss that technology anywhere.|Student Become uninterested and non-attentive after listening continuously to the broadcasting learning.|
 
 ---
-### IDEA 5: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 5: Project centered Learning (original by [Ubaid Ullah])
+students assigned with research and project based task rather than assignments and long lectures.Topic based notes and lectures
+provided.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Students can learn better by doing|Students lack project managment skills|
+|Whole process of teaching can be more quick than legacy one|Tracking progress on project by student is ambigious|
+|Whole dependencies on infrastructure can eliminated|Faculty must be highly experienced to conduct this kind of system|
+
 
 ---
-### IDEA 6: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 6: On Demand video lectures with moderator (original by [Ubaid Ullah])
+Expereinced teachers can come live through any video conferencing app and moderator moniter onsite or online class depending on situation
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Schools can hire subject specialist from anwhere in country/world|May face connectivity issues due to different geo-locations|
+|Due to nature of class setup,whole system can go completly online to onsite student depending on situation|additional man power is involved in the form of moderator|
+|Cost of whole is system is minimal with volunteer(moderator) and remote teacher|syncing moderator,teacher and teacher will be challenge|
 
 ---
 ### IDEA 7: Teacher shares videos and offline work/Pre-recorded lectures with teaching assistant (original by [M.Saad Haleem])
