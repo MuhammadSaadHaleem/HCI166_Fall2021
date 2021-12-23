@@ -48,11 +48,31 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-.
+### IDEA 5: Blah blah (original by [mention the member's name])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
-.
+---
+### IDEA 6: Blah blah (original by [mention the member's name])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
-.
+---
+### IDEA 7: Teacher shares videos and offline work/Pre-recorded lectures with teaching assistant (original by [M.Saad Haleem])
+Offline education is not severely affected by technical issues and provides an excellent opportunity for students to develop they way of learning. The use of videos in the classroom has been linked with better cognitive results and learning outcomes, compared with more traditional teaching methodology
+|PROS|CONS|
+|-|-|
+|Students get less time for self-study due to time wastage in traveling for school and coaching.|Lack structue and fixed schedule.
+|Accessble everywhere (even in remote location)|Self motivated is must|
+|Flexibilities of deciding yours own study duration|lack interaction with other students|
 
 
 ---
