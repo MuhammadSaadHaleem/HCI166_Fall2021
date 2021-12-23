@@ -39,8 +39,8 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 4: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 4: Broadcasting , TV & Radio (original by [Sameed Ahmed])
+Educational radio and television can support of children who lack access to the internet or have low digital literacy.. 
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
