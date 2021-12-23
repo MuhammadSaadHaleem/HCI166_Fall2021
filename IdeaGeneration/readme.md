@@ -16,7 +16,7 @@ Just providing recorded video lectures will not be efficient so the topics conve
 with onsite tests
 |PROS|CONS|
 |-|-|
-|students can find it intresting and intrective|there is chance of addiction to devices|
+|students can find it interesting and intrective|there is chance of addiction to devices|
 |reach of the games can be universal and avialble to larger audience|availblity of device and internet is must|
 |performance of ecach student can be monitered |students can be distracted by other apps and websites on device|
 
