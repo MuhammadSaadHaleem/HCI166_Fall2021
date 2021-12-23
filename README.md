@@ -15,3 +15,14 @@ That’s all about me, thanks again
 6th semester 
 
 
+## Ubaid Ullah:
+
+### Introduction:
+
+I am student of 6th semester at Pafkiet ,I descibe myself(atleast want to) as curious person and by curious means i am intersted in not only "how" of things but rather "why" of things,I find pleasure in computing,art,history,literature,cinema and poetry.My favorite poet is Muneer Ahmed Niazi and favourite director is Christopher Nolan.
+
+
+
+
+
+
