@@ -75,12 +75,12 @@ Offline education is not severely affected by technical issues and provides an e
 |Flexibilities of deciding yours own study duration|lack interaction with other students|
 
 ----
-### IDEA 8: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 8: PlayFull Activities on exercise / Activities Based Learning on recorded lectures (original by [Sameed Ahmed])
+Activity-based learning is the process of learning by doing. As opposed to asking kids to simply listen and take notes, activity-based learning encourages students to actively participate in their own learning experience through practical activities such as problem-solving and independent investigation. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|By encouraging Students to get physically and mentally involved in the learning process, activity-based learning helps students learn and retain information.|It is Time Consuming|
+|Activity-based learning encourages Student to be creative in the way they express their knowledge. This learning method provides students with the opportunity to express what they have learnt through the act of doing as well as through the act of verbal presentation.|blah blah blah blah blah blah blah blah blah blah blah blah...|
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...
 
 ---
@@ -90,8 +90,8 @@ Taking accelerated courses might be your best option because they typically have
 |PROS|CONS|
 |-|-|
 |Accelerated classes is that students get out of school and into the workforce as quickly as possible|blah blah blah blah blah blah blah blah...|
-|Accelerated programs often utilize shorter periods for classes, with courses running in a variety of formats|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...
+|Accelerated programs often utilize shorter periods for classes, with courses running in a variety of formats|Sometimes Memorization is Necessary|
+|Social and Emotional Development|It Discourages Listening to Elders|
 
 ---
 ### IDEA 10: Blah blah (original by [mention the member's name])
