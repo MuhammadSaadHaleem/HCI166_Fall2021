@@ -92,9 +92,9 @@ Activity-based learning is the process of learning by doing. As opposed to askin
 Taking accelerated courses might be your best option because they typically have small class sizes and are structured in a way to allow students the flexibility to learn in a way that fits their “non-traditional” (but common) lifestyle. 
 |PROS|CONS|
 |-|-|
-|Accelerated classes is that students get out of school and into the workforce as quickly as possible|blah blah blah blah blah blah blah blah...|
-|Accelerated programs often utilize shorter periods for classes, with courses running in a variety of formats|cvvv|
-|Social and Emotional Development|It Discourages Listening to Elders|
+|Accelerated classes is that students get out of school and into the workforce as quickly as possible|Accelerated programs require students to be highly focused on the curriculum.|
+|Accelerated programs often utilize shorter periods for classes, with courses running in a variety of formats|Lightning fast learning isn’t always feasible for busy working adults holding a full-time career and family obligations.|
+|Social and Emotional Development|Have a heavy workload in a condensed time frame|
 
 ---
 ### IDEA 10: On demand video lectures with auto grading Woorkshop based(original by [Sameed Ahmed])
