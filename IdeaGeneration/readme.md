@@ -74,6 +74,24 @@ Offline education is not severely affected by technical issues and provides an e
 |Accessble everywhere (even in remote location)|Self motivated is must|
 |Flexibilities of deciding yours own study duration|lack interaction with other students|
 
+----
+### IDEA 8: Blah blah (original by [mention the member's name])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...
+
+---
+
+### IDEA 9: Accelerated course with intreraction excercise (original by M.Saad Haleem)
+Taking accelerated courses might be your best option because they typically have small class sizes and are structured in a way to allow students the flexibility to learn in a way that fits their “non-traditional” (but common) lifestyle. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...
 
 ---
 ### IDEA 10: Blah blah (original by [mention the member's name])
