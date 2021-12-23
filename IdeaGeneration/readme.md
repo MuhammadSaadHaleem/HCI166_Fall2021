@@ -102,7 +102,7 @@ Taking accelerated courses might be your best option because they typically have
 |PROS|CONS|
 |-|-|
 |Can reduced significant time due to auto granding|There is chance error in auto grading|
-|Due to on demand lectures more flexiblity is provided to student|Student may need to ask question during lectures|
+|Due to on demand lectures more flexiblity is provided to student|Student may need to ask question during lectures & Task|
 |Learning from wide range of teacher can improve student experience|Student find loophole of autoplaying lectures|
 
 
