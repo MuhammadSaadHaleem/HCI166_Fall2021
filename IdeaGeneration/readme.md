@@ -24,9 +24,9 @@ Just providing recorded video lectures will not be efficient so the topics conve
 The annotation work requires students to select a passage from a course reading and electronically mark up the text, adding interpretive commentary, links to relevant online resources, images, sounds, and explanatory notes 
 |PROS|CONS|
 |-|-|
-|Annotating helps build a better understanding of texts and stories.|blah blah blah blah blah blah blah blah...|
-|They promote a deeper understanding of passages and encourage students to read with a purpose.|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|It double-whammies as a way to quickly find information later on.|blah blah blah blah blah blah blah blah blah blah...|
+|Annotating helps build a better understanding of texts and stories.|In some cases, the annotations may be one person’s opinion|
+|They promote a deeper understanding of passages and encourage students to read with a purpose.|Language Barries for understandings|
+|It double-whammies as a way to quickly find information later on.|More critical thinking on any subject|
 
 ---
 ### IDEA 3: Blah blah (original by [mention the member's name])
