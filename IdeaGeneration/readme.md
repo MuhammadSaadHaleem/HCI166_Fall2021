@@ -39,13 +39,13 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 4: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 4: Boardcasting TV & Radio. (original by [Sameed Ahmed])
+Educational radio and television can support the millions of children who lack access to the internet or have low digital literacy. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Television & boardcasting learning is a great way to open your student's mind to a variety of things and help them learn about topics.|Some students possess the ability to work independently, while others find comfort in their community on campus with easy access to professors or their fellow students.|
+|Improves Collaboration & Personalized education experience & Self-Discipline.|Online classes imply an initial learning curve and extra effort on the teacher’s behalf to create a successful online course.|
+|Students can easily accesss that technology anywhere.|Student Become uninterested and non-attentive after listening continuously to the broadcasting learning.|
 
 ---
 ### IDEA 5: Blah blah (original by [mention the member's name])
