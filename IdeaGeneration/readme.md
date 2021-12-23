@@ -11,8 +11,8 @@
 
 ## Final 10 Ideas Selected
 
-### IDEA 1: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 1: Gamification of topis with short intro videos (original by [Ubaid Ullah])
+Just providing recorded video lectures will not be efficient so the topics converted into games.With short explanation videos.
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
