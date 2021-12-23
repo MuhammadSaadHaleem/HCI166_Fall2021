@@ -21,13 +21,13 @@ with onsite tests
 |performance of ecach student can be monitered |students can be distracted by other apps and websites on device|
 
 ---
-### IDEA 2: Blah blah (original by [mention the member's name])
-Add some description of the idea here. 
+### IDEA 2: Anotation on work/ interactive slides animation (original by [mention the M.Saad Haleem])
+The annotation work requires students to select a passage from a course reading and electronically mark up the text, adding interpretive commentary, links to relevant online resources, images, sounds, and explanatory notes. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Annotating helps build a better understanding of texts and stories|In some cases, the annotations may be one person’s opinion|
+|They promote a deeper understanding of passages and encourage students to read with a purpose.|Language Barries for understandings|
+|It double-whammies as a way to quickly find information later on.|More critical thinking on any subject|
 
 ---
 ### IDEA 3: Blah blah (original by [mention the member's name])
@@ -39,8 +39,8 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 4: Broadcasting , TV & Radio (original by [Sameed Ahmed])
-Educational radio and television can support of children who lack access to the internet or have low digital literacy.. 
+### IDEA 4: Blah blah (original by [mention the member's name])
+Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
