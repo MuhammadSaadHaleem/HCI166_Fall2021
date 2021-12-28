@@ -21,7 +21,7 @@ with onsite tests
 |performance of ecach student can be monitered |students can be distracted by other apps and websites on device|
 
 ---
-### IDEA 2: Anotation on work/ interactive slides animation (original by [mention the M.Saad Haleem])
+### IDEA 2: Anotation on work/ interactive slides animation (original by M.Saad Haleem])
 The annotation work requires students to select a passage from a course reading and electronically mark up the text, adding interpretive commentary, links to relevant online resources, images, sounds, and explanatory notes. 
 |PROS|CONS|
 |-|-|
