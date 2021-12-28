@@ -12,7 +12,7 @@ That’s all about me, thanks again
 
 ## Sameed Ahmed:
 ### Introduction:
-6th semester 
+I am currently Doing BSCS from PAF-KIET in 6th Semester.I have strong interest on Aritifical Intelligence.I also a graphic designer Having some experience on graphic Designing. I love to explore new technologies and to meet people sharing ideas and passionate to solve complex problem.
 
 
 ## Ubaid Ullah:
