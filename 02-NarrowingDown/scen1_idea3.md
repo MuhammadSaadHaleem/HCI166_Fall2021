@@ -1,0 +1,2 @@
+# Scenario_1_Idea_3:
+Classes are being held online and student came to login into school's portal to acess the lectures,student is using smartphone to login but forget his login credentials,portal is asking for username and password.student proceed to enter his name as username and take a wild guess at password section but login failed but a field below is appear below the login button for forget password asking for roll no and student will receive one time login link on his mobile no to login with one click.
