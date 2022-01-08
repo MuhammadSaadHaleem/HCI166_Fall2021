@@ -45,13 +45,19 @@
 
 [scen4_idea3.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/scen4_idea3.md)
 
+[storyboard1_idea1.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard1_idea1.md)
+
 [storyboard1_idea2.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard1_idea2.md)
 
 [storyboard1_idea3.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard1_idea3.md)
 
+[storyboard2_idea1.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard2_idea1.md)
+
 [storyboard2_idea2.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard2_idea2.md)
 
 [storyboard2_idea3.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard2_idea3.md)
+
+[storyboard3_idea1.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard3_idea1.md)
 
 [storyboard3_idea2.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard3_idea2.md)
 
