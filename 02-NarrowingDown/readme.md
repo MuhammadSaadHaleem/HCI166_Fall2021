@@ -1,13 +1,18 @@
 # Group Members:
-    1. Ubaid Ullah-64290.
-    2. Saad Haleem-10182
-    3. Sameed Ahmed-10121
+
+| Student Names        | Student IDs   | 
+| -------------------- |:-------------:|
+| Ubaid ullah          | 64290         | 
+| Sameed Ahmed Khan    | 10121         |   
+| M. Saad Haleem       | 10182         |    
 
 
 # Best 3 Ideas We selected:
     1. Gamification of topics with short intro videos
     2. Live video lecture with moderator
     3. On-demand video lectures with auto grading.
+    
+ ## Personas
     
 [persona_staff1.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/persona_staff1.md)
 
@@ -20,6 +25,8 @@
 [persona_tch1.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/persona_tch1.md)
 
 [persona_tch2.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/persona_tch2.md)
+
+## Scenarios
 
 [scen1_idea1.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/scen1_idea1.md)
 
@@ -44,6 +51,8 @@
 [scen4_idea2.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/scen4_idea2.md)
 
 [scen4_idea3.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/scen4_idea3.md)
+
+## Storyboard
 
 [storyboard1_idea1.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard1_idea1.md)
 
