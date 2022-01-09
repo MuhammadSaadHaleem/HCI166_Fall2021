@@ -71,3 +71,8 @@
 [storyboard3_idea2.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard3_idea2.md)
 
 [storyboard3_idea3.md](https://github.com/MuhammadSaadHaleem/HCI166_Fall2021/blob/main/02-NarrowingDown/storyboard3_idea3.md)
+
+# Final idea selected:
+## Live Video lecture with moderator.
+### Reason:
+we find this more agile and suitable to our given scenario of hybird classroom because with this we can easily switch between foll blown obline class to student onsite-teacher online or dividing student into online and onsite.We add the benefits of third idea as well in future with the help of recorded lectures of past years.
