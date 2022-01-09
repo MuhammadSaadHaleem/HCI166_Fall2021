@@ -5,4 +5,4 @@
 # Faculty
 ![image](https://user-images.githubusercontent.com/49789953/148699574-f110cacc-bfed-4b93-a8ca-a13db2d614bf.png)
 
-
+# STUDENT
